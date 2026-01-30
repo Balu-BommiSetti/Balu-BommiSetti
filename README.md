@@ -35,6 +35,6 @@ Performance optimization in React and React Native
 📫 Let's Connect!
 I'm always open to discussing technology, collaboration opportunities, or interesting projects. Feel free to explore my repositories, open issues, or reach out!
 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin"/> <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome">
+<a href="">Instagram</a> <a href="https://www.linkedin.com/in/balubommisetti16/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin"/></a> <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome">
 
 “Turning complex problems into elegant solutions, one commit at a time.”
